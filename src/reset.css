@@ -1,0 +1,8 @@
+@import url(../assets/fonts/DMSans-VariableFont_opsz\,wght.ttf);
+
+* {
+    font-family: "DMSans Medium";
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
